@@ -28,7 +28,7 @@ const corsOptions = {
     "https://ecommerce-frontend-theta-three.vercel.app/",
     "https://ecommerce-frontend-git-master-bryans-projects-7acc38e5.vercel.app/",
     "https://ecommerce-frontend-b8ydt2n82-bryans-projects-7acc38e5.vercel.app/"
-  ],
+  ], 
   // Allow only the specified HTTP methods
   // methods: ['GET', 'POST', 'PUT', 'DELETE'],
   // Allow only the specified headers
