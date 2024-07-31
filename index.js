@@ -25,9 +25,9 @@ app.use(express.urlencoded({ extended: true }));
 const corsOptions = {
   origin: [
     "http://localhost:5173/",
-    "https://capstone3-silk.vercel.app/",
-    "https://capstone3-git-main-bryans-projects-7acc38e5.vercel.app/",
-    "https://capstone3-4eepl1e5n-bryans-projects-7acc38e5.vercel.app/"
+    "https://ecommerce-frontend-theta-three.vercel.app/",
+    "https://ecommerce-frontend-git-master-bryans-projects-7acc38e5.vercel.app/",
+    "https://ecommerce-frontend-b8ydt2n82-bryans-projects-7acc38e5.vercel.app/"
   ],
   // Allow only the specified HTTP methods
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
