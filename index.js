@@ -30,7 +30,7 @@ const corsOptions = {
     "https://ecommerce-frontend-b8ydt2n82-bryans-projects-7acc38e5.vercel.app/"
   ],
   // Allow only the specified HTTP methods
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  // methods: ['GET', 'POST', 'PUT', 'DELETE'],
   // Allow only the specified headers
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true,
